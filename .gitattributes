@@ -6,3 +6,6 @@
 # are not really used, but just a way to track empty directories)
 .gitignore export-ignore
 .gitattributes export-ignore
+
+# ignore the Windows installer folder
+/installer export-ignore
